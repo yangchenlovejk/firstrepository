@@ -14,9 +14,9 @@
 # a = int(input("输入1："))
 # b = int(input("输入2："))
 # print("结果是：",a+b)
-# c = float(input())
-# d = float(input())
-# print("结果是：",c+d)
+c = float(input())
+d = float(input())
+print("结果是：",c+d)
 
 a = input("请输入：")    # input()函数，默认输入的是字符串
 b = input("请输入：")
